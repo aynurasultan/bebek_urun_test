@@ -1,0 +1,123 @@
+/* Ana arama konteyneri */
+.search-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px; /* Daha dolgun bir görünüm için dolguyu artırın */
+  background-color: #fcf8f3; /* Bej ve krem tonlarında sıcak bir arka plan */
+  border-radius: 20px; /* Kenarları yuvarlaklaştırın */
+  box-shadow: 0 6px 15px rgba(255, 182, 193, 0.4); /* Yumuşak pembe bir gölge */
+  font-family: 'Comic Sans MS', sans-serif; /* Daha çocuksu bir font */
+  color: #4a4a6a; /* Koyu morumsu bir ton */
+}
+
+/* Başlık ve açıklama metinleri */
+.title {
+  text-align: center;
+  color: #6a5acd; /* Açık mor tonu */
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.description {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #8a7cbb; /* Daha açık mor tonu */
+  font-style: italic;
+}
+
+/* Metin alanı */
+.text-area {
+  width: 100%;
+  min-height: 150px;
+  padding: 15px;
+  border: 2px dashed #b8e994; /* Eğlenceli kesik çizgili yeşil bir kenarlık */
+  border-radius: 12px;
+  font-size: 1.1rem;
+  resize: vertical;
+  box-sizing: border-box;
+  background-color: #fffaf0; /* Hafif bir krem arka plan */
+  color: #4a4a6a;
+}
+
+/* Arama butonu */
+.search-button {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin-top: 20px;
+  background-color: #f7d794; /* Sıcak sarı tonu */
+  color: #4a4a6a;
+  border: none;
+  border-radius: 12px;
+  font-size: 1.4rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.search-button:hover {
+  background-color: #f5b967; /* Daha koyu sarı */
+  transform: translateY(-3px); /* Butona basılmış hissi vermek için */
+}
+
+/* Sonuç konteyneri */
+.results-container {
+  margin-top: 40px;
+}
+
+/* Her bir sonuç maddesi */
+.result-item {
+  border-left: 8px solid; /* Kenarlık kalınlığını artırın */
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.result-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+/* Risk renkleri */
+.risk-high {
+  border-color: #ff6363; /* Canlı kırmızı */
+  background-color: #ffe8e8;
+}
+
+.risk-medium {
+  border-color: #ffb144; /* Canlı turuncu */
+  background-color: #fff6e1;
+}
+
+.risk-low {
+  border-color: #55b94c; /* Canlı yeşil */
+  background-color: #e8f9e7;
+}
+
+/* Metin stilleri */
+.ingredient-name {
+  margin-top: 0;
+  color: #4a4a6a;
+  font-size: 1.6rem;
+}
+
+.ingredient-risk {
+  font-size: 1.1rem;
+  color: #797999;
+}
+
+.ingredient-explanation, .ingredient-alternatives {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #6a6a8a;
+}
+
+.no-results {
+  text-align: center;
+  color: #999;
+  font-style: italic;
+  padding: 20px;
+}

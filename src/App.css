@@ -1,0 +1,62 @@
+/* Ana konteynerin stilleri */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 3rem; /* Bebek ürünlerindeki dolgun hissiyat için dolguyu artırın */
+  text-align: center;
+  /* Arka plan rengini bebek temasında sık kullanılan pastel tonlardan seçin */
+  background-color: #f7f9fc;
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  font-family: 'Comic Sans MS', 'Arial', sans-serif; /* Daha yumuşak ve çocuksu bir font */
+}
+
+/* Logoların ve ikonların stilleri */
+.logo {
+  height: 8em; /* İkonu daha belirgin hale getirin */
+  padding: 2em;
+  will-change: filter;
+  transition: filter 300ms, transform 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #f3a683); /* Turuncu-pembe bir ton kullanın */
+  transform: scale(1.1) rotate(5deg); /* Üzerine gelince hafifçe büyüyüp dönsün */
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #f7d794); /* Sıcak sarı bir ton kullanın */
+}
+
+/* Animasyon, logoların neşeli bir şekilde dönmesini sağlar */
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Kart stilleri */
+.card {
+  padding: 3em; /* Daha dolgun görünüm */
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 2px dashed #b8e994; /* Eğlenceli, kesik çizgili bir çerçeve */
+  margin-top: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Belge okuma linkinin stili */
+.read-the-docs {
+  color: #a4b0be; /* Daha açık gri bir ton kullanın */
+  font-size: 1.1em;
+  font-style: italic;
+  font-weight: bold;
+}

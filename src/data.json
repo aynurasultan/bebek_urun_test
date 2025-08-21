@@ -1,0 +1,332 @@
+{
+  "Paraben": {
+    "name": "Paraben",
+    "risk": "Yüksek",
+    "explanation": "Koruyucu olarak kullanılır. Hormonal sistem üzerinde olumsuz etkileri olabileceği düşünülmektedir.",
+    "alternatives": "Potasyum Sorbat, Sodyum Benzoat"
+  },
+  "Sodyum Loril Sülfat": {
+    "name": "Sodyum Loril Sülfat",
+    "risk": "Orta",
+    "explanation": "Köpürtücü ajandır. Ciltte kuruluk ve tahrişe neden olabilir.",
+    "alternatives": "Kokamidopropil Betain"
+  },
+  "Fenoksietanol": {
+    "name": "Fenoksietanol",
+    "risk": "Orta",
+    "explanation": "Koruyucu olarak kullanılır. Özellikle hassas ve bebek ciltlerinde alerjik reaksiyonlara neden olabilir.",
+    "alternatives": "Etilheksilgliserin"
+  },
+  "Gliserin": {
+    "name": "Gliserin",
+    "risk": "Düşük",
+    "explanation": "Cildi nemlendiren ve yumuşatan bir maddedir. Güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Buğday Unu": {
+    "name": "Buğday Unu",
+    "risk": "Düşük",
+    "explanation": "Karbonhidrat ve enerji kaynağıdır. Gluten içerir.",
+    "alternatives": "Pirinç unu, yulaf unu"
+  },
+  "Şeker": {
+    "name": "Şeker",
+    "risk": "Yüksek",
+    "explanation": "Tadı iyileştirir ancak bebeklerde diş çürükleri ve sağlıksız beslenme alışkanlıklarına neden olabilir.",
+    "alternatives": "Doğal meyve püreleri, hurma"
+  },
+  "Bitkisel Yağ": {
+    "name": "Bitkisel Yağ",
+    "risk": "Orta",
+    "explanation": "Enerji kaynağıdır. Palmiye yağı, bazı bebeklerde kalsiyum emilimini etkileyebilir.",
+    "alternatives": "Zeytinyağı, Hindistan cevizi yağı"
+  },
+  "Nişasta": {
+    "name": "Nişasta",
+    "risk": "Düşük",
+    "explanation": "Ürünün kıvamını sağlar. Genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Yağsız Pastörize Süt": {
+    "name": "Yağsız Pastörize Süt",
+    "risk": "Düşük",
+    "explanation": "Protein ve kalsiyum kaynağıdır. Süt alerjisi olan bebekler için risklidir.",
+    "alternatives": "Soya sütü, badem sütü (doktor onayıyla)"
+  },
+  "Pastörize Yumurta": {
+    "name": "Pastörize Yumurta",
+    "risk": "Düşük",
+    "explanation": "Protein kaynağıdır. Yumurta alerjisi olan bebekler için risklidir.",
+    "alternatives": "Yok"
+  },
+  "Amonyum Hidrojen Karbonat": {
+    "name": "Amonyum Hidrojen Karbonat",
+    "risk": "Orta",
+    "explanation": "Kabartıcı olarak kullanılır. Bazı bebeklerde sindirim rahatsızlıklarına yol açabilir.",
+    "alternatives": "Sodyum bikarbonat"
+  },
+  "Tuz": {
+    "name": "Tuz",
+    "risk": "Yüksek",
+    "explanation": "Tadını iyileştirir. Fazla tuz, bebeğin böbreklerine yük bindirir ve ileride yüksek tansiyon riskini artırabilir.",
+    "alternatives": "Yok"
+  },
+  "Mineraller": {
+    "name": "Mineraller",
+    "risk": "Düşük",
+    "explanation": "Demir, kalsiyum gibi bebek gelişimi için önemli besinlerdir. Genellikle takviye olarak eklenirler.",
+    "alternatives": "Yok"
+  },
+  "Vitamin Karışımı": {
+    "name": "Vitamin Karışımı",
+    "risk": "Düşük",
+    "explanation": "Bebeğin sağlıklı gelişimi için gerekli vitaminleri sağlar. Dengeli beslenmenin yerini tutmaz.",
+    "alternatives": "Yok"
+  },
+  "Aroma Vericiler": {
+    "name": "Aroma Vericiler",
+    "risk": "Orta",
+    "explanation": "Ürüne koku ve tat verir. Sentetik olanlar bazı hassasiyetlere yol açabilir.",
+    "alternatives": "Vanilya özü"
+  },
+  "Vanilin": {
+    "name": "Vanilin",
+    "risk": "Orta",
+    "explanation": "Sentetik bir aroma vericidir. Hassas bebeklerde alerjik reaksiyonlara neden olabilir.",
+    "alternatives": "Gerçek vanilya ekstraktı"
+  },
+  "Vanilya Ekstraktı": {
+    "name": "Vanilya Ekstraktı",
+    "risk": "Düşük",
+    "explanation": "Vanilya çekirdeğinden elde edilen doğal aroma vericidir. Genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Trans Yağ": {
+    "name": "Trans Yağ",
+    "risk": "Yüksek",
+    "explanation": "Ürünün raf ömrünü uzatır ancak kalp sağlığına zararlıdır. Bebeklerin tüketmemesi gerekir.",
+    "alternatives": "Doğal bitkisel yağlar"
+  },
+  "Ağır Metaller": {
+    "name": "Ağır Metaller",
+    "risk": "Yüksek",
+    "explanation": "Arsenik, kurşun ve kadmiyum gibi ağır metaller beyin gelişimini olumsuz etkileyebilir.",
+    "alternatives": "Yok"
+  },
+  "Yapay Tatlandırıcılar": {
+    "name": "Yapay Tatlandırıcılar",
+    "risk": "Yüksek",
+    "explanation": "Aspartam ve sakarin gibi maddeler özellikle 1 yaşından küçük bebekler için uygun değildir, tatlıya düşkünlük yaratabilir.",
+    "alternatives": "Yok"
+  },
+  "Emülgatörler": {
+    "name": "Emülgatörler",
+    "risk": "Orta",
+    "explanation": "Bağırsak florasını bozabilir ve sindirim problemlerine yol açabilir.",
+    "alternatives": "Yok"
+  },
+  "Soya Proteini": {
+    "name": "Soya Proteini",
+    "risk": "Orta",
+    "explanation": "Alerjen olabilir ve hormonal dengeyi etkileyebilir.",
+    "alternatives": "Anne sütü, hidrolize protein mamaları"
+  },
+  "Yenilebilir Sığır Jelatini": {
+    "name": "Yenilebilir Sığır Jelatini",
+    "risk": "Düşük",
+    "explanation": "Hayvansal kaynaklıdır, ürünün kıvamını sağlar. Veganlar için uygun değildir.",
+    "alternatives": "Yok"
+  },
+  "Sodyum Hidrojen Karbonat": {
+    "name": "Sodyum Hidrojen Karbonat",
+    "risk": "Düşük",
+    "explanation": "Kabartıcı olarak kullanılır. Genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Sodyum Metabisülfit": {
+    "name": "Sodyum Metabisülfit",
+    "risk": "Yüksek",
+    "explanation": "Koruyucu olarak kullanılır. Astımı olan veya sülfitlere duyarlı kişilerde alerjik reaksiyonlara neden olabilir.",
+    "alternatives": "Yok"
+  },
+  "Ayçiçek Lesitini": {
+    "name": "Ayçiçek Lesitini",
+    "risk": "Düşük",
+    "explanation": "Emülgatördür. Yağ ve su gibi maddelerin karışmasını sağlar, genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Pancar Kökü Kırmızısı": {
+    "name": "Pancar Kökü Kırmızısı",
+    "risk": "Düşük",
+    "explanation": "Doğal bir renklendiricidir.",
+    "alternatives": "Yok"
+  },
+  "Riboflavin": {
+    "name": "Riboflavin",
+    "risk": "Düşük",
+    "explanation": "B2 vitamini olarak da bilinen doğal bir renklendiricidir.",
+    "alternatives": "Yok"
+  },
+  "Sodyum Asit Pirofosfat": {
+    "name": "Sodyum Asit Pirofosfat",
+    "risk": "Düşük",
+    "explanation": "Asitliği düzenleyici ve kabartıcı olarak kullanılır. Genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Talk": {
+    "name": "Talk",
+    "risk": "Düşük",
+    "explanation": "Topaklanmayı önleyici bir maddedir. Güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Gam Arabik": {
+    "name": "Gam Arabik",
+    "risk": "Düşük",
+    "explanation": "Bitkisel kökenli bir kıvam artırıcı ve stabilizatördür.",
+    "alternatives": "Yok"
+  },
+  "Kakao": {
+    "name": "Kakao",
+    "risk": "Düşük",
+    "explanation": "Lezzet ve renk verici bir maddedir. Alerjisi olan bireyler için risk taşıyabilir.",
+    "alternatives": "Yok"
+  },
+  "Su": {
+    "name": "Su",
+    "risk": "Düşük",
+    "explanation": "Ürünün ana bileşenidir.",
+    "alternatives": "Yok"
+  },
+  "İnvert Şeker Şurubu": {
+    "name": "İnvert Şeker Şurubu",
+    "risk": "Yüksek",
+    "explanation": "Şekerin bir formudur. Bebeklerde diş çürükleri ve sağlıksız beslenme alışkanlıklarına neden olabilir.",
+    "alternatives": "Doğal meyve püreleri"
+  },
+  "Glukoz Şurubu": {
+    "name": "Glukoz Şurubu",
+    "risk": "Yüksek",
+    "explanation": "Şekerin bir formudur. Bebeklerde diş çürükleri ve sağlıksız beslenme alışkanlıklarına neden olabilir.",
+    "alternatives": "Doğal meyve püreleri"
+  },
+  "Nem Verici (Gliserol)": {
+    "name": "Nem Verici (Gliserol)",
+    "risk": "Düşük",
+    "explanation": "Ürünün nemini korumak için kullanılır. Gliserin ile aynı maddedir, genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Dekstroz": {
+    "name": "Dekstroz",
+    "risk": "Yüksek",
+    "explanation": "Şekerin bir formudur. Bebeklerde diş çürükleri ve sağlıksız beslenme alışkanlıklarına neden olabilir.",
+    "alternatives": "Doğal meyve püreleri"
+  },
+  "Disodyum Difosfat": {
+    "name": "Disodyum Difosfat",
+    "risk": "Düşük",
+    "explanation": "Kabartıcı ve emülgatör olarak kullanılır. Genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Peynir Altı Suyu Tozu": {
+    "name": "Peynir Altı Suyu Tozu",
+    "risk": "Orta",
+    "explanation": "Sütten elde edilen bir protein ve mineral kaynağıdır. Süt alerjisi olan bebekler için risklidir.",
+    "alternatives": "Yok"
+  },
+  "Bitkisel Yağ Asitlerinin Mono ve Digliseritleri": {
+    "name": "Bitkisel Yağ Asitlerinin Mono ve Digliseritleri",
+    "risk": "Düşük",
+    "explanation": "Emülgatör olarak kullanılır. Yağ ve su gibi maddelerin karışmasını sağlar.",
+    "alternatives": "Ayçiçek Lesitini"
+  },
+  "Soya Lesitini": {
+    "name": "Soya Lesitini",
+    "risk": "Düşük",
+    "explanation": "Emülgatör olarak kullanılır. Soya alerjisi olan bebekler için risklidir.",
+    "alternatives": "Ayçiçek Lesitini"
+  },
+  "Potasyum Sorbat": {
+    "name": "Potasyum Sorbat",
+    "risk": "Düşük",
+    "explanation": "Koruyucu olarak kullanılır. Yaygın ve güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Sodyum Propiyonat": {
+    "name": "Sodyum Propiyonat",
+    "risk": "Orta",
+    "explanation": "Koruyucu olarak kullanılır. Hassasiyeti olan kişilerde yan etki gösterebilir.",
+    "alternatives": "Yok"
+  },
+  "Sorbik Asit": {
+    "name": "Sorbik Asit",
+    "risk": "Düşük",
+    "explanation": "Koruyucu olarak kullanılır. Güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Pektin": {
+    "name": "Pektin",
+    "risk": "Düşük",
+    "explanation": "Doğal bir kıvam arttırıcı ve stabilizatördür.",
+    "alternatives": "Yok"
+  },
+  "Sitrik Asit": {
+    "name": "Sitrik Asit",
+    "risk": "Düşük",
+    "explanation": "Asitlik düzenleyici ve koruyucu olarak kullanılır.",
+    "alternatives": "Yok"
+  },
+  "Trisodyum Sitrat": {
+    "name": "Trisodyum Sitrat",
+    "risk": "Düşük",
+    "explanation": "Asitlik düzenleyici olarak kullanılır.",
+    "alternatives": "Yok"
+  },
+  "Kalsiyum Klorür": {
+    "name": "Kalsiyum Klorür",
+    "risk": "Düşük",
+    "explanation": "Sertleştirici ve stabilizatör olarak kullanılır. Vücut için gerekli bir mineraldir.",
+    "alternatives": "Yok"
+  },
+  "Kara Havuç Konsantresi": {
+    "name": "Kara Havuç Konsantresi",
+    "risk": "Düşük",
+    "explanation": "Doğal bir renklendiricidir. Genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Çilek Tozu": {
+    "name": "Çilek Tozu",
+    "risk": "Düşük",
+    "explanation": "Doğal bir meyve tozudur. Çilek alerjisi olan bireyler için risk taşıyabilir.",
+    "alternatives": "Yok"
+  },
+  "Organik Elma Suyu Konsantresi": {
+    "name": "Organik Elma Suyu Konsantresi",
+    "risk": "Orta",
+    "explanation": "Doğal bir tatlandırıcıdır ancak yoğun şeker içerir ve aşırı tüketimi sağlıksız beslenme alışkanlıklarına yol açabilir.",
+    "alternatives": "Yok"
+  },
+  "Organik Tam Pirinç Unu": {
+    "name": "Organik Tam Pirinç Unu",
+    "risk": "Düşük",
+    "explanation": "Glutensiz bir tahıl unu kaynağıdır. Genellikle güvenli kabul edilir.",
+    "alternatives": "Yok"
+  },
+  "Organik Tam Yulaf Unu": {
+    "name": "Organik Tam Yulaf Unu",
+    "risk": "Düşük",
+    "explanation": "Lif ve besin açısından zengindir. Çölyak hastalığı olanlar için çapraz bulaşma riskine karşı dikkatli olunmalıdır.",
+    "alternatives": "Yok"
+  },
+  "Organik Buğday İrmiği": {
+    "name": "Organik Buğday İrmiği",
+    "risk": "Düşük",
+    "explanation": "Buğdaydan elde edilen bir tahıldır ve gluten içerir.",
+    "alternatives": "Yok"
+  },
+  "Organik Elma Sirkesi": {
+    "name": "Organik Elma Sirkesi",
+    "risk": "Düşük",
+    "explanation": "Asitlik düzenleyici ve koruyucu olarak kullanılır. Doğal bir maddedir.",
+    "alternatives": "Yok"
+}
+}
